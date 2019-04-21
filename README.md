@@ -1,0 +1,4 @@
+# Pokemon-Legends-Bot
+This is my simple Python Bot that I use to find rare Pokemons in Pokemon Legends (https://www.pokemonlegends.com/).
+You need Seleneium, Python and geckodriver to be in your Path Variable.
+It uses existing Mozilla FIrefox profile that I created. You can change the Profile directory in settings.py file.
